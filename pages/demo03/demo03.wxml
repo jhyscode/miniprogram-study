@@ -1,0 +1,28 @@
+<!--pages/demo03/demo03.wxml-->
+
+<view>{{msg}}</view>
+<view>{{num}}</view>
+<view>是否是伪娘：{{isGirl}}</view>
+<view>{{person}}</view>
+<view>{{person.age }}</view>
+<view>{{person.height }}</view>
+<view>{{person.weight }}</view>
+<view>{{person.name}}</view>
+
+<view data-num="{{num}}">自定义属性</view>
+
+<view>
+    <checkbox checked="{{isChecked}}" />
+</view>
+
+<view>
+    <view 
+    wx:for="{{list}}" 
+    wx:for-item="item" 
+    wx:for-index="index">
+    索引：{{index}}
+    --
+    值：{{item.name}}
+    </view>
+</view>
+  
