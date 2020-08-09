@@ -26,4 +26,22 @@
     值：{{item.name}}
     </view>
 </view>
+
+<view>
+    <view>
+        对象循环
+    </view>
+    <view 
+    wx:for="{{person}}"
+    wx:for-item="value"
+    wx:for-index="key"
+    wx:key="age"
+    >
+        属性：{{key}}
+        --
+        值：{{value}}
+    </view>
+      
+</view>
+  
   
