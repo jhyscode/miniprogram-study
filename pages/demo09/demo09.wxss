@@ -1,0 +1,7 @@
+/* pages/demo09/demo09.wxss */
+
+image{
+    box-sizing: border-box;
+    border: 1px solid red;
+    width: 200px;
+}

@@ -1,0 +1,6 @@
+<!--pages/demo11/demo11.wxml-->
+<navigator url="/pages/demo10/demo10">轮播图效果</navigator>
+<navigator url="/pages/demo10/demo10">轮播图效果</navigator>
+<navigator open-type="redirect" url="/pages/demo10/demo10">轮播图效果 redirect</navigator>
+<navigator open-type="switchTab" url="/pages/index/index">轮播图效果 转到tabbar</navigator>
+<navigator open-type="reLaunch" url="/pages/index/index">任意跳转到tabbar</navigator>

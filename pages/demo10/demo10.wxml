@@ -1,0 +1,6 @@
+<!--pages/demo10/demo10.wxml-->
+<swiper autoplay="{{true}}" interval="1000" circular="{{true}}" indicator-dots="{{true}}" indicator-active-color="#0094ff">
+    <swiper-item><image mode="widthFix" src="https://aecpm.alicdn.com/simba/img/TB15tIjGVXXXXcoapXXSutbFXXX.jpg" /></swiper-item>
+    <swiper-item><image mode="widthFix" src="https://aecpm.alicdn.com/simba/img/TB1CWf9KpXXXXbuXpXXSutbFXXX.jpg_q50.jpg" /></swiper-item>
+
+</swiper>

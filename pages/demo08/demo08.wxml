@@ -1,0 +1,4 @@
+<!--pages/demo08/demo08.wxml-->
+<text selectable="{{true}}" decode>
+text &nbsp;123 &lt;
+</text>
