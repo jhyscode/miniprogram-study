@@ -44,4 +44,12 @@
       
 </view>
   
+
+<view>
+    <view>条件渲染</view>
+    <view wx:if="{{true}}">1</view>
+    <view wx:elif="{{false}}">2</view>    
+    
+    <view hidden style="display: flex;">hidden</view>
+</view>
   
