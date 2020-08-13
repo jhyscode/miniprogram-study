@@ -1,0 +1,13 @@
+
+<button>默认按钮</button>
+<button size="mini">mini按钮</button>
+<button type="primary">primary按钮</button>
+<button type="primary" loading="{{true}}">loading按钮</button>
+
+<button open-type="contact">contact</button>
+<button open-type="share">share</button>
+<button open-type="getPhoneNumber" bindgetPhoneNumber="getPhoneNumber">getPhoneNumber</button>
+<button open-type="getUserInfo" bindgetuserinfo="getUserInfo">getUserInfo</button>
+<button open-type="openSetting">openSetting</button>
+
+

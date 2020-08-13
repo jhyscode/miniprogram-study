@@ -1,1 +1,2 @@
-<!-- 富文本 -->
+<!-- 富文本 --> 
+<rich-text nodes="{{html}}"></rich-text>
