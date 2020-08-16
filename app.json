@@ -1,5 +1,7 @@
 {
   "pages":[
+    "pages/demo19/index",
+    "pages/demo18/index",
     "pages/demo17/demo17",
     "pages/demo16/demo16",
     "pages/demo15/demo15",
